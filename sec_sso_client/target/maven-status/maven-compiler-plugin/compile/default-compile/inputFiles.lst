@@ -1,0 +1,16 @@
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/PermissionFilter.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/SmartContainer.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/ClientFilter.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/SsoFilter.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/PermissionJmsListener.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/rpc/RpcPermission.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/ApplicationPermission.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/SessionUtils.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/LogoutFilter.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/rpc/RpcUser.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/SessionUser.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/ParamFilter.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/PermissionJmsMonitor.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/SessionPermission.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/client/SsoResultCode.java
+/Users/dongchuan/java/eclipse-workspace/sec_sso/sec_sso_client/src/main/java/com/mybase/ssm/sso/rpc/AuthenticationRpcService.java

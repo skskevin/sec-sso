@@ -1,0 +1,16 @@
+com/mybase/ssm/sso/client/ApplicationPermission.class
+com/mybase/ssm/sso/client/SsoFilter.class
+com/mybase/ssm/sso/client/PermissionFilter.class
+com/mybase/ssm/sso/client/ClientFilter.class
+com/mybase/ssm/sso/client/PermissionJmsListener.class
+com/mybase/ssm/sso/client/LogoutFilter.class
+com/mybase/ssm/sso/client/PermissionJmsMonitor.class
+com/mybase/ssm/sso/client/SessionUser.class
+com/mybase/ssm/sso/rpc/AuthenticationRpcService.class
+com/mybase/ssm/sso/rpc/RpcPermission.class
+com/mybase/ssm/sso/rpc/RpcUser.class
+com/mybase/ssm/sso/client/SessionUtils.class
+com/mybase/ssm/sso/client/SsoResultCode.class
+com/mybase/ssm/sso/client/ParamFilter.class
+com/mybase/ssm/sso/client/SmartContainer.class
+com/mybase/ssm/sso/client/SessionPermission.class
